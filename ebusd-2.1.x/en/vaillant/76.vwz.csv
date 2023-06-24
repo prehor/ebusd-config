@@ -26,5 +26,6 @@ r,,BuildingCircuitFlow,,,8,,3C,,,UIN,,l/h,,,,,,,,,,,,,,,,,,,
 *r,,,,,,B51A,05E534,,,IGN:3,,,,,,,,,,,,,,,,,,,,,
 r,,BuildingPumpHours,,,8,,02,,,UIN,,hours,,,,,,,,,,,,,,,,,,,
 r,,BuildingPumpStarts,,,8,,03,,,UIN,,,,,,,,,,,,,,,,,,,,,
+
 !include,hcmode.inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 !include,errors.inc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
