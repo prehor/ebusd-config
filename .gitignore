@@ -1,3 +1,6 @@
+.ssh
+.vscode
 *~
 /ebusd-configuration-*.deb
 /ebusd-configuration-*.tgz
+/html
